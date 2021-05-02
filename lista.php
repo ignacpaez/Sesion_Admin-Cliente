@@ -4,7 +4,7 @@ $mysqli = new MYSQLI('localhost', 'root', '', 'cancion');
 
 session_start();
    if(!isset($_SESSION['nombre']) || $_SESSION['tipo'] != "A"){
-      header("location:index.php?m=Su session ha caducado");
+      header("location:index.php?m=Su sessión ha caducado");
    }
 
 ?>
