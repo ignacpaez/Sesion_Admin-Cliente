@@ -1,0 +1,112 @@
+#contenedor{
+	width:1280px;
+	background-color:#464241;
+	color:#fff8dc;
+	height: 700px;
+	margin:0px auto;
+}
+
+#contenedordisc{
+	width:1280px;
+	background-color:#464241;
+	height:1190px;
+	color:#fff8dc;
+	margin:0px auto;
+}
+
+#contenedorevent{
+	width:1280px;
+	background-color:#464241;
+	height:1090px;
+	color:#fff8dc;
+	margin:0px auto;
+}
+
+#contenedorgal{
+	width:1024px;
+	background-color:#464241;
+	height:650px;
+	color:#fff8dc;
+	margin:0px auto;
+}
+
+#contenedorbio{
+	width:1280px;
+	background-color:#464241;
+	height:710px;
+	color:#fff8dc;
+	margin:0px auto;
+}
+
+footer{
+	background-color:#800;
+	text-align:center;
+	border-radius:0px 0px 20px 20px;
+}
+#formulario{
+	min-height:100px;
+}
+nav{
+	text-align:center;
+}
+nav ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+nav ul li{
+	display:inline-block;
+}
+nav ul li a{
+	display:block;
+	width:100px;
+	background-color:#169B99;
+	color:#fff8dc;
+	text-decoration:none;
+}
+nav ul li a:hover{
+	background-color:#6b8e23;
+}
+#form1{
+	background-color:#195D1E;
+	width:350px;
+	margin:50px auto;
+	padding:20px;
+	border-radius:20px;
+}
+.label{
+	display:inline-block;
+	width:100px;
+}
+.labelmensaje{
+	display:inline-block;
+	width:100px;
+	height:200px;
+}
+
+.centro{
+	text-align:center;
+}
+#form1 div{
+	margin:3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
